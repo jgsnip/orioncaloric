@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="i2t i2d">
+  <title id="i2t">Hotel roof with solar</title>
+  <desc id="i2d">Line illustration of a building roof with solar panels</desc>
+  <defs><style>.s{fill:none;stroke:#0f172a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.a{stroke:#0ea5b7}</style></defs>
+  <rect class="s" x="80" y="140" width="400" height="120" rx="8"/>
+  <path class="s" d="M80 140h400l-60-50H140z"/>
+  <rect class="s a" x="160" y="150" width="80" height="50"/>
+  <rect class="s a" x="260" y="150" width="80" height="50"/>
+  <rect class="s a" x="360" y="150" width="80" height="50"/>
+  <path class="s" d="M120 210h320M120 230h320"/>
+</svg>

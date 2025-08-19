@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="i4t i4d">
+  <title id="i4t">Monitoring dashboard</title>
+  <desc id="i4d">Line illustration of a dashboard with charts</desc>
+  <defs><style>.s{fill:none;stroke:#0f172a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.a{stroke:#0ea5b7}</style></defs>
+  <rect class="s" x="80" y="70" width="400" height="180" rx="8"/>
+  <path class="s a" d="M120 210l50-40 40 30 60-70 70 50"/>
+  <rect class="s" x="120" y="100" width="80" height="20" rx="4"/>
+  <rect class="s" x="210" y="100" width="80" height="20" rx="4"/>
+  <rect class="s" x="300" y="100" width="80" height="20" rx="4"/>
+</svg>

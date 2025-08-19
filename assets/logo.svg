@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188" height="40" viewBox="0 0 188 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Orion Global Caloric Technology</title>
+  <desc id="logoDesc">Minimal line logo with a sun and the word ORION</desc>
+  <g fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="20" cy="20" r="9"/>
+    <path d="M20 2v6M20 32v6M2 20h6M32 20h6M6.4 6.4l4.2 4.2M33.4 33.4l-4.2-4.2M6.4 33.6l4.2-4.2M33.6 6.4l-4.2 4.2"/>
+    <path d="M54 28v-16h6c3 0 6 2 6 8s-3 8-6 8h-6z"/>
+    <path d="M83 12c-5 0-9 4-9 8s4 8 9 8 9-4 9-8-4-8-9-8z"/>
+    <path d="M100 28v-16h8c3 0 6 2 6 5s-3 5-6 5h-8"/>
+    <path d="M127 28v-16h7c5 0 10 4 10 8s-5 8-10 8h-7z"/>
+    <path d="M156 28v-16h19"/>
+  </g>
+</svg>

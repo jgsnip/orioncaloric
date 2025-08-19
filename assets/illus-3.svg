@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="i3t i3d">
+  <title id="i3t">Installer with tools</title>
+  <desc id="i3d">Line illustration of an installer and a wrench</desc>
+  <defs><style>.s{fill:none;stroke:#0f172a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.a{stroke:#f59e0b}</style></defs>
+  <circle class="s" cx="200" cy="120" r="30"/>
+  <path class="s" d="M160 200c0-40 80-40 80 0v30H160z"/>
+  <path class="s a" d="M340 190l40-40m-20 60l40-40m-60 0l40 40"/>
+  <path class="s" d="M380 120a24 24 0 0 1 24 24v56h-48v-56a24 24 0 0 1 24-24z"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="i1t i1d">
+  <title id="i1t">Island with sun</title>
+  <desc id="i1d">Line illustration of a sunny island with waves</desc>
+  <defs>
+    <style>
+      .s { fill: none; stroke: #0f172a; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .a { stroke: #f59e0b; }
+    </style>
+  </defs>
+  <circle class="s a" cx="460" cy="70" r="28"/>
+  <path class="s" d="M40 240c60 10 120 10 180 0s120-10 180 0 120 10 120 0"/>
+  <path class="s" d="M120 228c20-40 60-66 100-66s80 26 100 66"/>
+  <path class="s" d="M250 162c-12-18-34-34-60-34-22 0-44 12-58 30"/>
+  <path class="s" d="M260 210l-16-36-16 36"/>
+  <path class="s" d="M170 198l-12-28-12 28"/>
+</svg>
